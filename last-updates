@@ -1,1 +1,2 @@
-- Changed to ESX Legacy imports
+- Changed to ESX Legacy imports.
+- QBCore Delivery version change to 1.2 and fixed some bugs with 'job' field.
